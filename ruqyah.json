@@ -1,20 +1,20 @@
 {
   "ruqyah": [
     {
-      "title": "Ayat Al-Kursi",
-      "surah": "Al-Baqarah",
-      "ayah": 255,
-      "api": "https://staticquran.vercel.app/api/v1/surah/2/ayah/255"
+      "title": "Ruqyah 1",
+      "audio": "https://files.catbox.moe/7rn792.ogg"
     },
     {
-      "title": "Surah Al-Falaq",
-      "surah": "Al-Falaq",
-      "api": "https://staticquran.vercel.app/api/v1/surah/113"
+      "title": "Ruqyah 2",
+      "audio": "https://files.catbox.moe/n0hpof.ogg"
     },
     {
-      "title": "Surah An-Nas",
-      "surah": "An-Nas",
-      "api": "https://staticquran.vercel.app/api/v1/surah/114"
+      "title": "Ruqyah 3",
+      "audio": "https://files.catbox.moe/kgsiwg.m4a"
+    },
+    {
+      "title": "Archive Collection",
+      "audio": "https://archive.org/details/balyan"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "ruqyah": [
+    {
+      "title": "Ayat Al-Kursi",
+      "surah": "Al-Baqarah",
+      "ayah": 255,
+      "api": "https://staticquran.vercel.app/api/v1/surah/2/ayah/255"
+    },
+    {
+      "title": "Surah Al-Falaq",
+      "surah": "Al-Falaq",
+      "api": "https://staticquran.vercel.app/api/v1/surah/113"
+    },
+    {
+      "title": "Surah An-Nas",
+      "surah": "An-Nas",
+      "api": "https://staticquran.vercel.app/api/v1/surah/114"
+    }
+  ]
+}
